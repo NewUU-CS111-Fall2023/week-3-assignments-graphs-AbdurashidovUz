@@ -16,4 +16,4 @@ if answer[-1]==a:
     print (len(answer))
     print(answer[::-1])
 else:
-    print("no")
+    print("NO")
